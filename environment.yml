@@ -1,0 +1,12 @@
+name: attn-transfer
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.8
+  - torchvision
+  - timm
+  - torchaudio
+  - pytorch-cuda=12.1
+  - pytorch
+  - tensorboard
